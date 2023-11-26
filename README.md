@@ -20,4 +20,7 @@
 # 시뮬레이션이 종료된 후 선형 회귀를 통해 포식자와 포식자의 진화 경향을 표시합니다.
 
 
-# Code by Seoungmo_Yeon(연승모), Changmin_Moon(문창민)
+# Code by Seoungmo_Yeon(연승모)
+# Assistance from Donghan_Kwon(권동한), Jongwon_Kim(김종원), Changmin_Moon(문창민), Seyong_Ahn(안세용)
+
+
