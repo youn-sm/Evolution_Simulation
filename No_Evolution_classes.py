@@ -1,4 +1,3 @@
-classes.py
 
 import random
 import numpy as np
